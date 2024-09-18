@@ -1,4 +1,6 @@
 Machine Learning Model Selection and Pipeline
+
+
 This project implements a machine learning pipeline that evaluates multiple models to select the best one based on accuracy and R² score. The project uses GridSearchCV for hyperparameter tuning to optimize model performance. The entire process is structured in Python using classes and methods to ensure scalability and flexibility.
 
 Features
